@@ -1,0 +1,16 @@
+body {
+    margin: 0%;
+}
+
+#coordinates,
+#text {
+    margin-left: 10px;
+}
+
+#image {
+    padding: 0%;
+    margin: 0%;
+    width: fit-content;
+    height: fit-content;
+    border: 1px black;
+}
